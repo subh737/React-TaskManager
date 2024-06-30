@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url(./assets/background.png)
+}
+
+.background{
+    background-color: rgb(22, 9, 37);
+    color: white;
+}
